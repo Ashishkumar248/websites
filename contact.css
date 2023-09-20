@@ -211,3 +211,21 @@ h1{
 .round-button:hover {
     background: #777555;
 }
+
+@media screen and (max-width: 400px) {
+    .screen-body-item {
+        width: 129%;
+    }
+
+    .aaa {
+        margin-top: -123px;
+        font-size: 41px;
+        margin-left: -5px;
+    }
+
+    .aa {
+        margin-top: -82px;
+        font-size: 43px;
+        margin-left: 0px;
+    }
+}
